@@ -36,6 +36,7 @@ namespace Xhcp_Service.ProductService
 
         public void TestSearch()
         {
+            //_context.OnModelCreating()
             var templist = _context.Courses.ToList();
         }
     }

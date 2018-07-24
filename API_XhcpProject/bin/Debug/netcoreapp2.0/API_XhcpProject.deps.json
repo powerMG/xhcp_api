@@ -3885,6 +3885,7 @@
       "Xhcp_DAL/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "2.1.1",
+          "Microsoft.EntityFrameworkCore.Design": "2.1.1",
           "Microsoft.EntityFrameworkCore.Tools": "2.1.1",
           "Pomelo.EntityFrameworkCore.MySql": "2.1.1",
           "Xhcp_Entity": "1.0.0"
@@ -5992,7 +5993,7 @@
     "System.Security.Cryptography.Xml/4.4.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-q9Dren/YP5jhRCkDvLfuaPpMTQzP97ANvzq/OoGgwK8YdLRSTABS9oW5/23OKoM2DRCuBrh4qaecD2YNhPtuzQ==",
+      "sha512": "sha512-1m+fKVrApgKYMRuE0MF0vGjqy4XqAp1rCtyAzMXhJajMDDytMh/rHk9hp4M7KKk3QQZoWJUvyUY7xcw74w+JiQ==",
       "path": "system.security.cryptography.xml/4.4.2",
       "hashPath": "system.security.cryptography.xml.4.4.2.nupkg.sha512"
     },

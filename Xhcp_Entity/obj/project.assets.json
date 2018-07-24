@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\WxProjects\\Api\\API_XhcpProject\\Xhcp_Entity\\Xhcp_Entity.csproj",
+      "projectUniqueName": "E:\\WxProjects\\Api\\API_XhcpProject\\xhcp_api\\Xhcp_Entity\\Xhcp_Entity.csproj",
       "projectName": "Xhcp_Entity",
-      "projectPath": "E:\\WxProjects\\Api\\API_XhcpProject\\Xhcp_Entity\\Xhcp_Entity.csproj",
+      "projectPath": "E:\\WxProjects\\Api\\API_XhcpProject\\xhcp_api\\Xhcp_Entity\\Xhcp_Entity.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\WxProjects\\Api\\API_XhcpProject\\Xhcp_Entity\\obj\\",
+      "outputPath": "E:\\WxProjects\\Api\\API_XhcpProject\\xhcp_api\\Xhcp_Entity\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

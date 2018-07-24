@@ -1,5 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using System;
 using Xhcp_Entity.Table;
 
 namespace Xhcp_DAL
@@ -13,7 +12,8 @@ namespace Xhcp_DAL
         public DbSet<Product> Courses { get; set; }
         protected override void OnModelCreating(ModelBuilder modelbuilder)
         {
-            base.OnModelCreating(modelbuilder);
+            //base.OnModelCreating(modelbuilder);
+            modelbuilder.Entity<Product>();
         }
     }
 }

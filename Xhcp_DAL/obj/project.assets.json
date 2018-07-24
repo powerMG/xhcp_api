@@ -4231,6 +4231,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.EntityFrameworkCore >= 2.1.1",
+      "Microsoft.EntityFrameworkCore.Design >= 2.1.1",
       "Microsoft.EntityFrameworkCore.Tools >= 2.1.1",
       "Microsoft.NETCore.App >= 2.0.0",
       "Pomelo.EntityFrameworkCore.MySql >= 2.1.1",
@@ -4244,11 +4245,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\WxProjects\\Api\\API_XhcpProject\\Xhcp_DAL\\Xhcp_DAL.csproj",
+      "projectUniqueName": "E:\\WxProjects\\Api\\API_XhcpProject\\xhcp_api\\Xhcp_DAL\\Xhcp_DAL.csproj",
       "projectName": "Xhcp_DAL",
-      "projectPath": "E:\\WxProjects\\Api\\API_XhcpProject\\Xhcp_DAL\\Xhcp_DAL.csproj",
+      "projectPath": "E:\\WxProjects\\Api\\API_XhcpProject\\xhcp_api\\Xhcp_DAL\\Xhcp_DAL.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\WxProjects\\Api\\API_XhcpProject\\Xhcp_DAL\\obj\\",
+      "outputPath": "E:\\WxProjects\\Api\\API_XhcpProject\\xhcp_api\\Xhcp_DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4267,8 +4268,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "E:\\WxProjects\\Api\\API_XhcpProject\\Xhcp_Entity\\Xhcp_Entity.csproj": {
-              "projectPath": "E:\\WxProjects\\Api\\API_XhcpProject\\Xhcp_Entity\\Xhcp_Entity.csproj"
+            "E:\\WxProjects\\Api\\API_XhcpProject\\xhcp_api\\Xhcp_Entity\\Xhcp_Entity.csproj": {
+              "projectPath": "E:\\WxProjects\\Api\\API_XhcpProject\\xhcp_api\\Xhcp_Entity\\Xhcp_Entity.csproj"
             }
           }
         }
@@ -4283,6 +4284,10 @@
       "netcoreapp2.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
+            "target": "Package",
+            "version": "[2.1.1, )"
+          },
+          "Microsoft.EntityFrameworkCore.Design": {
             "target": "Package",
             "version": "[2.1.1, )"
           },

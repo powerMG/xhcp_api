@@ -7,3 +7,12 @@ E:\WxProjects\Api\API_XhcpProject\Xhcp_Entity\obj\Debug\netcoreapp2.0\Xhcp_Entit
 E:\WxProjects\Api\API_XhcpProject\Xhcp_Entity\obj\Debug\netcoreapp2.0\Xhcp_Entity.AssemblyInfo.cs
 E:\WxProjects\Api\API_XhcpProject\Xhcp_Entity\obj\Debug\netcoreapp2.0\Xhcp_Entity.dll
 E:\WxProjects\Api\API_XhcpProject\Xhcp_Entity\obj\Debug\netcoreapp2.0\Xhcp_Entity.pdb
+E:\WxProjects\Api\API_XhcpProject\xhcp_api\Xhcp_Entity\bin\Debug\netcoreapp2.0\Xhcp_Entity.deps.json
+E:\WxProjects\Api\API_XhcpProject\xhcp_api\Xhcp_Entity\bin\Debug\netcoreapp2.0\Xhcp_Entity.dll
+E:\WxProjects\Api\API_XhcpProject\xhcp_api\Xhcp_Entity\bin\Debug\netcoreapp2.0\Xhcp_Entity.pdb
+E:\WxProjects\Api\API_XhcpProject\xhcp_api\Xhcp_Entity\obj\Debug\netcoreapp2.0\Xhcp_Entity.csproj.CoreCompileInputs.cache
+E:\WxProjects\Api\API_XhcpProject\xhcp_api\Xhcp_Entity\obj\Debug\netcoreapp2.0\Xhcp_Entity.AssemblyInfoInputs.cache
+E:\WxProjects\Api\API_XhcpProject\xhcp_api\Xhcp_Entity\obj\Debug\netcoreapp2.0\Xhcp_Entity.AssemblyInfo.cs
+E:\WxProjects\Api\API_XhcpProject\xhcp_api\Xhcp_Entity\obj\Debug\netcoreapp2.0\Xhcp_Entity.dll
+E:\WxProjects\Api\API_XhcpProject\xhcp_api\Xhcp_Entity\obj\Debug\netcoreapp2.0\Xhcp_Entity.pdb
+E:\WxProjects\Api\API_XhcpProject\xhcp_api\Xhcp_Entity\obj\Debug\netcoreapp2.0\Xhcp_Entity.csprojAssemblyReference.cache

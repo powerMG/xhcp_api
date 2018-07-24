@@ -4832,6 +4832,7 @@
         "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "2.1.1",
+          "Microsoft.EntityFrameworkCore.Design": "2.1.1",
           "Microsoft.EntityFrameworkCore.Tools": "2.1.1",
           "Pomelo.EntityFrameworkCore.MySql": "2.1.1",
           "Xhcp_Entity": "1.0.0"
@@ -11721,7 +11722,7 @@
       ]
     },
     "System.Security.Cryptography.Xml/4.4.2": {
-      "sha512": "q9Dren/YP5jhRCkDvLfuaPpMTQzP97ANvzq/OoGgwK8YdLRSTABS9oW5/23OKoM2DRCuBrh4qaecD2YNhPtuzQ==",
+      "sha512": "1m+fKVrApgKYMRuE0MF0vGjqy4XqAp1rCtyAzMXhJajMDDytMh/rHk9hp4M7KKk3QQZoWJUvyUY7xcw74w+JiQ==",
       "type": "package",
       "path": "system.security.cryptography.xml/4.4.2",
       "files": [
@@ -12933,11 +12934,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\WxProjects\\Api\\API_XhcpProject\\API_XhcpProject\\API_XhcpProject.csproj",
+      "projectUniqueName": "E:\\WxProjects\\Api\\API_XhcpProject\\xhcp_api\\API_XhcpProject\\API_XhcpProject.csproj",
       "projectName": "API_XhcpProject",
-      "projectPath": "E:\\WxProjects\\Api\\API_XhcpProject\\API_XhcpProject\\API_XhcpProject.csproj",
+      "projectPath": "E:\\WxProjects\\Api\\API_XhcpProject\\xhcp_api\\API_XhcpProject\\API_XhcpProject.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\WxProjects\\Api\\API_XhcpProject\\API_XhcpProject\\obj\\",
+      "outputPath": "E:\\WxProjects\\Api\\API_XhcpProject\\xhcp_api\\API_XhcpProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12956,14 +12957,14 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "E:\\WxProjects\\Api\\API_XhcpProject\\Xhcp_DAL\\Xhcp_DAL.csproj": {
-              "projectPath": "E:\\WxProjects\\Api\\API_XhcpProject\\Xhcp_DAL\\Xhcp_DAL.csproj"
+            "E:\\WxProjects\\Api\\API_XhcpProject\\xhcp_api\\Xhcp_DAL\\Xhcp_DAL.csproj": {
+              "projectPath": "E:\\WxProjects\\Api\\API_XhcpProject\\xhcp_api\\Xhcp_DAL\\Xhcp_DAL.csproj"
             },
-            "E:\\WxProjects\\Api\\API_XhcpProject\\Xhcp_Entity\\Xhcp_Entity.csproj": {
-              "projectPath": "E:\\WxProjects\\Api\\API_XhcpProject\\Xhcp_Entity\\Xhcp_Entity.csproj"
+            "E:\\WxProjects\\Api\\API_XhcpProject\\xhcp_api\\Xhcp_Entity\\Xhcp_Entity.csproj": {
+              "projectPath": "E:\\WxProjects\\Api\\API_XhcpProject\\xhcp_api\\Xhcp_Entity\\Xhcp_Entity.csproj"
             },
-            "E:\\WxProjects\\Api\\API_XhcpProject\\Xhcp_Service\\Xhcp_Service.csproj": {
-              "projectPath": "E:\\WxProjects\\Api\\API_XhcpProject\\Xhcp_Service\\Xhcp_Service.csproj"
+            "E:\\WxProjects\\Api\\API_XhcpProject\\xhcp_api\\Xhcp_Service\\Xhcp_Service.csproj": {
+              "projectPath": "E:\\WxProjects\\Api\\API_XhcpProject\\xhcp_api\\Xhcp_Service\\Xhcp_Service.csproj"
             }
           }
         }

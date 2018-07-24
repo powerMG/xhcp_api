@@ -12,3 +12,17 @@ E:\WxProjects\Api\API_XhcpProject\Xhcp_Service\bin\Debug\netcoreapp2.0\Xhcp_Enti
 E:\WxProjects\Api\API_XhcpProject\Xhcp_Service\obj\Debug\netcoreapp2.0\Xhcp_Service.csproj.CopyComplete
 E:\WxProjects\Api\API_XhcpProject\Xhcp_Service\obj\Debug\netcoreapp2.0\Xhcp_Service.dll
 E:\WxProjects\Api\API_XhcpProject\Xhcp_Service\obj\Debug\netcoreapp2.0\Xhcp_Service.pdb
+E:\WxProjects\Api\API_XhcpProject\xhcp_api\Xhcp_Service\bin\Debug\netcoreapp2.0\Xhcp_Service.deps.json
+E:\WxProjects\Api\API_XhcpProject\xhcp_api\Xhcp_Service\bin\Debug\netcoreapp2.0\Xhcp_Service.dll
+E:\WxProjects\Api\API_XhcpProject\xhcp_api\Xhcp_Service\bin\Debug\netcoreapp2.0\Xhcp_Service.pdb
+E:\WxProjects\Api\API_XhcpProject\xhcp_api\Xhcp_Service\bin\Debug\netcoreapp2.0\Xhcp_DAL.dll
+E:\WxProjects\Api\API_XhcpProject\xhcp_api\Xhcp_Service\bin\Debug\netcoreapp2.0\Xhcp_Entity.dll
+E:\WxProjects\Api\API_XhcpProject\xhcp_api\Xhcp_Service\bin\Debug\netcoreapp2.0\Xhcp_DAL.pdb
+E:\WxProjects\Api\API_XhcpProject\xhcp_api\Xhcp_Service\bin\Debug\netcoreapp2.0\Xhcp_Entity.pdb
+E:\WxProjects\Api\API_XhcpProject\xhcp_api\Xhcp_Service\obj\Debug\netcoreapp2.0\Xhcp_Service.csprojAssemblyReference.cache
+E:\WxProjects\Api\API_XhcpProject\xhcp_api\Xhcp_Service\obj\Debug\netcoreapp2.0\Xhcp_Service.csproj.CoreCompileInputs.cache
+E:\WxProjects\Api\API_XhcpProject\xhcp_api\Xhcp_Service\obj\Debug\netcoreapp2.0\Xhcp_Service.AssemblyInfoInputs.cache
+E:\WxProjects\Api\API_XhcpProject\xhcp_api\Xhcp_Service\obj\Debug\netcoreapp2.0\Xhcp_Service.AssemblyInfo.cs
+E:\WxProjects\Api\API_XhcpProject\xhcp_api\Xhcp_Service\obj\Debug\netcoreapp2.0\Xhcp_Service.csproj.CopyComplete
+E:\WxProjects\Api\API_XhcpProject\xhcp_api\Xhcp_Service\obj\Debug\netcoreapp2.0\Xhcp_Service.dll
+E:\WxProjects\Api\API_XhcpProject\xhcp_api\Xhcp_Service\obj\Debug\netcoreapp2.0\Xhcp_Service.pdb

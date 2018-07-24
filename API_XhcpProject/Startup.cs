@@ -27,7 +27,9 @@ namespace API_XhcpProject
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddDbContext<ProductContext>(options => options.UseMySql(Configuration.GetConnectionString("MySqlConnection")));
+            var connection = Configuration.GetConnectionString("MySqlConnection");
+            //services.AddDbContext<ProductContext>(options => options.UseMySql(Configuration.GetConnectionString("MySqlConnection")));
+            services.AddDbContext<ProductContext>(a => a.UseMySql(connection));
             services.AddUnitOfWork<ProductContext>();//添加UnitOfWork支持
             services.AddScoped(typeof(IProductService), typeof(ProductService));//用ASP.NET Core自带依赖注入(DI)注入使用的类
             services.AddMvc();
