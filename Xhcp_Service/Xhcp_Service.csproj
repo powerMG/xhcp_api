@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.UnitOfWork" Version="2.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Xhcp_DAL\Xhcp_DAL.csproj" />
+    <ProjectReference Include="..\Xhcp_Entity\Xhcp_Entity.csproj" />
+  </ItemGroup>
+
+</Project>
