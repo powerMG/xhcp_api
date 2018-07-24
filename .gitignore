@@ -1,0 +1,8 @@
+/Xhcp_BLL
+/API_XhcpProject/*
+/API_XhcpProject/obj
+/API_XhcpProject/bin
+/Xhcp_BLL/*
+/Xhcp_DAL/*
+/Xhcp_Entity/*
+/Xhcp_Service/*
