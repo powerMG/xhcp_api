@@ -10,10 +10,10 @@ namespace Xhcp_DAL
             // 对连接数据库的字符串做加密解密操作
         }
         public DbSet<Product> Courses { get; set; }
-        protected override void OnModelCreating(ModelBuilder modelbuilder)
-        {
-            //base.OnModelCreating(modelbuilder);
-            modelbuilder.Entity<Product>();
-        }
+        //protected override void OnModelCreating(ModelBuilder modelbuilder)
+        //{
+        //    //base.OnModelCreating(modelbuilder);
+        //    modelbuilder.Entity<Product>();
+        //}
     }
 }

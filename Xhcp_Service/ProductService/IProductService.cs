@@ -6,7 +6,7 @@ namespace Xhcp_Service.ProductService
 {
     public interface IProductService
     {
-        //string Test();
+        string Test();
         void TestSearch();
     }
 }

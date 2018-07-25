@@ -19,11 +19,8 @@ namespace API_XhcpProject.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-
-            _productService.TestSearch();
-            //var result = _productService.Test();
-            //return new string[] { "value1", result };
-            return new string[] { "value1", "test" };
+            var result = _productService.Test();
+            return new string[] { "value1", result };
         }
 
         // GET api/values/5
