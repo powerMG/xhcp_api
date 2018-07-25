@@ -8,12 +8,7 @@ namespace Xhcp_Service.ProductService
 {
     public class ProductService : IProductService
     {
-        ProductContext _context;
         private readonly IUnitOfWork _unitOfWork;
-        public ProductService(ProductContext context)
-        {
-            _context = context;
-        }
         public ProductService(IUnitOfWork unitOfWork)
         {
             _unitOfWork = unitOfWork;
