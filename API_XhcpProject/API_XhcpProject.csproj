@@ -27,8 +27,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Xhcp_Domain\Xhcp_Domain.csproj" />
     <ProjectReference Include="..\Xhcp_Entity\Xhcp_Entity.csproj" />
     <ProjectReference Include="..\Xhcp_Service\Xhcp_Service.csproj" />
+    <ProjectReference Include="..\Xhcp_Utility\Xhcp_Utility.csproj" />
   </ItemGroup>
 
   <ProjectExtensions><VisualStudio><UserProperties appsettings_1json__JSONSchema="http://json.schemastore.org/asmdef" /></VisualStudio></ProjectExtensions>

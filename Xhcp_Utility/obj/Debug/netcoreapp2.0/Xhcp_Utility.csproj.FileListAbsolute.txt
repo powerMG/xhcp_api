@@ -1,0 +1,9 @@
+D:\project\localProject\xhcp_api\Xhcp_Utility\bin\Debug\netcoreapp2.0\Xhcp_Utility.deps.json
+D:\project\localProject\xhcp_api\Xhcp_Utility\bin\Debug\netcoreapp2.0\Xhcp_Utility.dll
+D:\project\localProject\xhcp_api\Xhcp_Utility\bin\Debug\netcoreapp2.0\Xhcp_Utility.pdb
+D:\project\localProject\xhcp_api\Xhcp_Utility\obj\Debug\netcoreapp2.0\Xhcp_Utility.csproj.CoreCompileInputs.cache
+D:\project\localProject\xhcp_api\Xhcp_Utility\obj\Debug\netcoreapp2.0\Xhcp_Utility.AssemblyInfoInputs.cache
+D:\project\localProject\xhcp_api\Xhcp_Utility\obj\Debug\netcoreapp2.0\Xhcp_Utility.AssemblyInfo.cs
+D:\project\localProject\xhcp_api\Xhcp_Utility\obj\Debug\netcoreapp2.0\Xhcp_Utility.dll
+D:\project\localProject\xhcp_api\Xhcp_Utility\obj\Debug\netcoreapp2.0\Xhcp_Utility.pdb
+D:\project\localProject\xhcp_api\Xhcp_Utility\obj\Debug\netcoreapp2.0\Xhcp_Utility.csprojAssemblyReference.cache
