@@ -29,5 +29,9 @@ namespace Xhcp_Entity.Core
         /// 创建时间
         /// </summary>
         public DateTime CreteTime { get; set; }
+        /// <summary>
+        /// 状态（用于逻辑删除，各子表区分类别用 *Type）
+        /// </summary>
+        public int Status { get; set; }
     }
 }

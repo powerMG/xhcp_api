@@ -1,8 +1,0 @@
-D:\project\localProject\xhcp_api\Xhcp_Domain\bin\Debug\netcoreapp2.0\Xhcp_Domain.deps.json
-D:\project\localProject\xhcp_api\Xhcp_Domain\bin\Debug\netcoreapp2.0\Xhcp_Domain.dll
-D:\project\localProject\xhcp_api\Xhcp_Domain\bin\Debug\netcoreapp2.0\Xhcp_Domain.pdb
-D:\project\localProject\xhcp_api\Xhcp_Domain\obj\Debug\netcoreapp2.0\Xhcp_Domain.csproj.CoreCompileInputs.cache
-D:\project\localProject\xhcp_api\Xhcp_Domain\obj\Debug\netcoreapp2.0\Xhcp_Domain.AssemblyInfoInputs.cache
-D:\project\localProject\xhcp_api\Xhcp_Domain\obj\Debug\netcoreapp2.0\Xhcp_Domain.AssemblyInfo.cs
-D:\project\localProject\xhcp_api\Xhcp_Domain\obj\Debug\netcoreapp2.0\Xhcp_Domain.dll
-D:\project\localProject\xhcp_api\Xhcp_Domain\obj\Debug\netcoreapp2.0\Xhcp_Domain.pdb
