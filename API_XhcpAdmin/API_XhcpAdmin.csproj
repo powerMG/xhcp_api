@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Xhcp_Domain\Xhcp_Domain.csproj" />
+    <ProjectReference Include="..\Xhcp_Entity\Xhcp_Entity.csproj" />
+    <ProjectReference Include="..\Xhcp_Service\Xhcp_Service.csproj" />
+    <ProjectReference Include="..\Xhcp_Utility\Xhcp_Utility.csproj" />
+  </ItemGroup>
+
+</Project>
