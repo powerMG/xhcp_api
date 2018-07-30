@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xhcp_Domain", "Xhcp_Domain\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xhcp_Utility", "Xhcp_Utility\Xhcp_Utility.csproj", "{98F3162A-AAAF-4EDF-BDFC-BB7A1A6BCF69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_XhcpAdmin", "API_XhcpAdmin\API_XhcpAdmin.csproj", "{3974939A-96C7-43F0-BDD0-CFA3CE5E7845}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API_XhcpAdmin", "API_XhcpAdmin\API_XhcpAdmin.csproj", "{3974939A-96C7-43F0-BDD0-CFA3CE5E7845}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xhcp_Cache", "Xhcp_Cache\Xhcp_Cache.csproj", "{0023F32F-5FB3-40F5-8DB8-D11B0A36A08D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{3974939A-96C7-43F0-BDD0-CFA3CE5E7845}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3974939A-96C7-43F0-BDD0-CFA3CE5E7845}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3974939A-96C7-43F0-BDD0-CFA3CE5E7845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0023F32F-5FB3-40F5-8DB8-D11B0A36A08D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0023F32F-5FB3-40F5-8DB8-D11B0A36A08D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0023F32F-5FB3-40F5-8DB8-D11B0A36A08D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0023F32F-5FB3-40F5-8DB8-D11B0A36A08D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
