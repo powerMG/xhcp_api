@@ -10,7 +10,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\" />
+    <Compile Include="wwwroot\Controllers\AccountController.cs" />
+    <Compile Include="wwwroot\Controllers\OAuthController.cs" />
+    <Compile Include="wwwroot\Controllers\ValuesController.cs" />
   </ItemGroup>
 
   <ItemGroup>

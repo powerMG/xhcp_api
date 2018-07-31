@@ -34,7 +34,14 @@ namespace API_XhcpProject
             services.AddDbContext<ProductContext>(a => a.UseMySql(connection));
             services.AddUnitOfWork<ProductContext>();//添加UnitOfWork支持
             services.AddScoped(typeof(IProductService), typeof(ProductService));//用ASP.NET Core自带依赖注入(DI)注入使用的类
-
+            //将Redis分布式缓存服务添加到服务中
+            services.AddDistributedRedisCache(c =>
+            {
+                //用于连接Redis的配置  Configuration.GetConnectionString("RedisConnectionString")读取配置信息的串
+                c.Configuration = Configuration.GetConnectionString("RedisConnection");
+                //Redis实例名RedisDistributedCache
+                c.InstanceName = "RedisDistributedCache";
+            });
             services.AddMvc();
             services.AddSwaggerGen(c =>
             {
