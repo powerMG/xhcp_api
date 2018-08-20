@@ -12,6 +12,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Microsoft.Extensions.PlatformAbstractions;
 using Swashbuckle.AspNetCore.Swagger;
+using Xhcp_Cache;
 using Xhcp_DAL;
 using Xhcp_Service;
 using Xhcp_Service.ProductService;
@@ -35,7 +36,7 @@ namespace API_XhcpProject
             services.AddUnitOfWork<ProductContext>();//添加UnitOfWork支持
             services.AddScoped(typeof(IProductService), typeof(ProductService));//用ASP.NET Core自带依赖注入(DI)注入使用的类
             //将Redis分布式缓存服务添加到服务中
-            services.AddDistributedRedisCache(c =>
+            services.AddCache(c =>
             {
                 //用于连接Redis的配置  Configuration.GetConnectionString("RedisConnectionString")读取配置信息的串
                 c.Configuration = Configuration.GetConnectionString("RedisConnection");

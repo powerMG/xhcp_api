@@ -173,7 +173,7 @@ namespace Xhcp_DAL.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Courses");
+                    b.ToTable("Product");
                 });
 
             modelBuilder.Entity("Xhcp_Entity.Table.UserInfo", b =>

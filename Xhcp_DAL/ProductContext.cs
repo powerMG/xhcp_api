@@ -12,7 +12,7 @@ namespace Xhcp_DAL
         /// <summary>
         /// test model
         /// </summary>
-        public DbSet<Product> Courses { get; set; }
+        public DbSet<Product> Product { get; set; }
         /// <summary>
         /// 用户表
         /// </summary>

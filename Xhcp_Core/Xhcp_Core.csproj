@@ -5,8 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Common\RequestModel\" />
-    <Folder Include="Common\ResponseModel\" />
+    <ProjectReference Include="..\Xhcp_Entity\Xhcp_Entity.csproj" />
   </ItemGroup>
 
 </Project>
